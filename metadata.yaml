@@ -1,0 +1,25 @@
+_repo: Measles_19965
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rucker, William Colby
+    birthdate: 1875
+    gutenberg_agent_id: '8995'
+    url: http://www.gutenberg.org/2009/agents/8995
+description: ''
+gutenberg_issued: '2006-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Measles'
+- !lcc 'RA'
+title: Measles
+url: http://www.gutenberg.org/ebooks/19965
